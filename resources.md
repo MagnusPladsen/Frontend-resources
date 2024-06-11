@@ -1,3 +1,6 @@
+Thanks to [Miguel](https://github.com/miguelrodriguezp99)
+Original source: https://dev.to/miguelrodriguezp99/frontend-resources-1dl4
+
 ### UI:
 - [Material Tailwind](https://www.material-tailwind.com/): A robust UI kit combining Material Design and Tailwind CSS
 - [Bentoed](https://bentoed.vercel.app/): A html/css/tailwind bento catalog
