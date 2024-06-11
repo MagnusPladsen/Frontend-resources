@@ -23,13 +23,13 @@
 -   [Everything in one page](https://freesets.vercel.app/): Explore a curated collection of resources
 -   [Beer CSS](https://www.beercss.com/): A semantic HTML CSS framework based on Material Design 3.
 
-### Free section templates:
+### Section Templates FREE:
 
--   [Flowright](https://flowrift.com/c/blog) Section templates made with Tailwind & HTML
--   [Preline](https://preline.co/examples.html) Section templates made with Tailwind & HTML
--   [HyperUI](https://www.hyperui.dev/components/marketing) Section templates made with Tailwind & HTML/JSX/Vue
--   [MerakiUI](https://www.hyperui.dev/components/marketing) Section templates made with Tailwind & HTML + full UI Library
--   [Tailblocks](https://tailblocks.cc/) Section templates made with Tailwind & HTML
+-   [Flowright](https://flowrift.com/c/blog): Section templates made with Tailwind & HTML
+-   [Preline](https://preline.co/examples.html): Section templates made with Tailwind & HTML
+-   [HyperUI](https://www.hyperui.dev/components/marketing): Section templates made with Tailwind & HTML/JSX/Vue
+-   [MerakiUI](https://www.hyperui.dev/components/marketing): Section templates made with Tailwind & HTML + full UI Library
+-   [Tailblocks](https://tailblocks.cc/): Section templates made with Tailwind & HTML
 
 ### Gradients:
 
